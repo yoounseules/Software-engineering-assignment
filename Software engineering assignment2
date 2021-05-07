@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-07T06:59:18.030Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="9j_RGyjAkszfiJBY77Sv" version="14.5.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-07T07:05:35.138Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="XEXzNifFGDZAMT0RvRfK" version="14.5.10" type="github">
   <diagram id="ggp30uE4OfubtQ0_Mt0O" name="실습2">
-    <mxGraphModel dx="1772" dy="747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1308" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -187,7 +187,7 @@
           <mxGeometry x="50" y="274" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Kv2Hlb0ukXeJFfKUT6rI-94" value="&lt;b&gt;교수&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="50" y="470" width="50" height="20" as="geometry" />
+          <mxGeometry x="50" y="468" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
